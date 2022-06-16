@@ -1,0 +1,12 @@
+
+.cust-bg {
+    background-image: url(./images/pattern-background-desktop.svg); 
+    background-repeat: no-repeat; 
+    background-size: contain;
+}
+
+@media screen and (max-width: 375px) {
+    .cust-bg {
+        background-image: url(./images/pattern-background-mobile.svg);
+    }
+}
