@@ -50,7 +50,7 @@ I learned how the tailwind utility classes work, and how its important to do a m
 
 ## Author
 
-- Website - [Aliyu Al-Sajjad Sani](https://alsajjad.web.app)
+- Github - [@Alisjj](https://github.com/Alisjj)
 - Frontend Mentor - [@Alisjj](https://www.frontendmentor.io/profile/Alisjj)
 - Twitter - [@AliyuAlSajjad](https://www.twitter.com/AliyuAlSajjad)
 
